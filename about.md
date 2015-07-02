@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a graduate student in Linguistics at the University of California, Santa Barbara.
 
-### More Information
+My work has two main threads:
 
-A place to include any other types of information that you'd like to include about yourself.
+* Documenting Mixtec as spoken in California 
+* Exploring new ways to use web technology to model documentary linguistic data
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
